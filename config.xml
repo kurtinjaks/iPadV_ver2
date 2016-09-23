@@ -17,7 +17,7 @@
       ZJ
   </author>
    <content src="index.html" />
-   <platform name="ios"></platform>
+   
   <platform name="windows"></platform>
   <platform name="winphone"></platform>
    <access origin="*" />
