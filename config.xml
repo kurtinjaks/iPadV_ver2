@@ -20,5 +20,8 @@
    
   <platform name="windows"></platform>
   <platform name="winphone"></platform>
+  <platform name="android">
+   <preference name="Fullscreen" value="true" />
+  </platform>
    <access origin="*" />
 </widget>
